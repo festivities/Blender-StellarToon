@@ -45,7 +45,7 @@ All of this wouldn't be possible if it weren't for:
 ## Disclaimer
 This shader isn't meant to be 100% accurate - what I only aim for is to replicate the in-game looks to the best of my ability. Some calculations are exactly how the game does things, some are my own thrown into the mix.
 
-While the shader is developed primarily for datamined assets, this repository does not endorse datamining in any way whatsoever and will never directly provide the tools in extracting from game files.
+While the shader is developed primarily for datamined assets, this repository does not endorse datamining in any way whatsoever and will never directly provide the assets nor tools in extracting from game files.
 
 ## Since you've read this far...
 Using this shader is completely **free** if it's not already evident from the license BUT - if and only if you have something to spare and would like to support me, then you can do so on my Ko-fi [here](https://ko-fi.com/festivity/). I appreciate every tip and each one motivates me to keep on improving the shader.
