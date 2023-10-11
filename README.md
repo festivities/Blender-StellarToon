@@ -2,6 +2,10 @@
 
 ---
 
+## Trailer
+
+[![Trailer](https://img.youtube.com/vi/cJED47rHhe8/maxresdefault.jpg)](https://youtu.be/cJED47rHhe8)
+
 <br>
 <p align="center">
     <a href="https://github.com/festivities/Blender-StellarToon"><img src="https://github.com/festivities/Blender-StellarToon/assets/77230051/2970493b-ec52-4ec0-890e-1eeef6598b70" alt="StellarToon"/></a>
