@@ -43,8 +43,9 @@ All of this wouldn't be possible if it weren't for:
 - [Razmoth](https://github.com/Razmoth/)
 - [radioegor146](https://github.com/radioegor146/)
 - [Mero](https://github.com/GrownNed/)
-- [Isaac](https://twitter.com/Just_ScaasI/)
+- [Isaac](https://x.com/Just_ScaasI/)
 - [Bonny](https://www.youtube.com/@BonnyAnimations/)
+- [OrionsEgg](https://x.com/OrionsEgg/)
 
 ## Disclaimer
 This shader isn't meant to be 100% accurate - what I only aim for is to replicate the in-game looks to the best of my ability. Some calculations are exactly how the game does things, some are my own thrown into the mix.
